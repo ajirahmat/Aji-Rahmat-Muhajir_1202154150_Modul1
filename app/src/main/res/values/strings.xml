@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aji Rahmat Muhajir_1202154150_Modul1</string>
+    <string name="Header">Makan Malam</string>
+    <string name="SecondHeader">dengan Milea</string>
+    <string name="nasi_uduk">Nasi Uduk</string>
+    <string name="jumlah">2</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="menu">Menu</string>
+    <string name="harga">Harga</string>
+    <string name="porsi">Porsi</string>
+</resources>
